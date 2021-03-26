@@ -30,9 +30,9 @@ I'm not including part numbers as most of the stuff was bought from ebay and can
 The case is made out of two 3D printed parts. They are optimized to use as little filament as possible and don't need any support while printing. <br><br>
 If you take a look at the rendering, you can see that the case is mostly empty. The inner chamber is on the top equipped with the camera and one or two LEDs and on the bottom the ID card can slide in from the front. This ensures that the camera always has the same perspective and reading stuff off the picture is straight forward. Around the inner chamber I've left enough space to fit in all the electronics and wires. The final design has two sand filled bags on each side to weigh everything down. Otherwise the box gets shifted around while inserting the ID and feels quite flimsy. 
 
-</p>
-<p align="right"><img src='https://github.com/petl/OCR_readID/blob/main/Photos/rM_back1.PNG' width='50%'><br>Rendering of the main 3D printed part. </p>  <br />
 
+</p>
+<p align=\"right\"><img src=\'https://quiescentcurrent.com/blog/images/post_pic/rM_front1.PNG\' width=\'50%\'><img src=\'https://quiescentcurrent.com/blog/images/post_pic/rM_back1.PNG\' width=\'50%\'><br>Rendering of the main 3D printed part. </p>  <br />
 
 <p><h2> Electronics </h2> </p>
 
