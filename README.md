@@ -1,11 +1,10 @@
-<p><h2> Motivation </h2> </p>
+                <p><h2> Motivation </h2> </p>
 <p>How do you track people coming and going into rooms during Covid19? Right, you save the RFID tag off their ID card! Thing is, not all IDs have RFID and more so, not all of the tag IDs are easily matched to user IDs.. To get around this we can just take a photo and read off any number we want. That\'s easy and quickly modifiable for different ID cards.  </p><br>
 <p>Long story short: The project uses <a href=\'https://github.com/tesseract-ocr/tesseract\'>tesseract</a> to do optical character recognition (OCR) on a photo taken from the ID card. This is then fed into a server which saves the original picture with the read number.</p><br>
 
 <p>If you\'re interested in this project, take a look at the <a href=\'https://github.com/petl/OCR_readID\'>github repository</a> or just write a message or leave a comment. </p><br><br>
 
-<p align=\"right\">
-![Photo of the reader in action.](https://github.com/petl/OCR_readID/blob/master/Photos/IMG_20210304_095842_crop.jpg)<br></p>  <br />
+<p align=\"right\"><img src=\'https://github.com/petl/OCR_readID/blob/main/Photos/IMG_20210304_095842_crop.jpg\' width=\'100%\'><br>Photo of the reader in action.</p>  <br />
 
 
 <p><h2> Hardware </h2> </p>
@@ -32,7 +31,7 @@ The case is made out of two 3D printed parts. They are optimized to use as littl
 If you take a look at the rendering, you can see that the case is mostly empty. The inner chamber is on the top equipped with the camera and one or two LEDs and on the bottom the ID card can slide in from the front. This ensures that the camera always has the same perspective and reading stuff off the picture is straight forward. Around the inner chamber I\'ve left enough space to fit in all the electronics and wires. The final design has two sand filled bags on each side to weigh everything down. Otherwise the box gets shifted around while inserting the ID and feels quite flimsy. 
 
 </p>
-<p align=\"right\">![Rendering of the main 3D printed part.](https://quiescentcurrent.com/blog/images/post_pic/rM_back1.PN)<br> </p>  <br />
+<p align=\"right\"><img src=\'https://quiescentcurrent.com/blog/images/post_pic/rM_back1.PNG\' width=\'50%\'><br>Rendering of the main 3D printed part. </p>  <br />
 
 
 <p><h2> Electronics </h2> </p>
