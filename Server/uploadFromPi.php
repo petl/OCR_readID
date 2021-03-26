@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html><head>
-<meta name="description" content="Anwesenheitsliste">
+<meta name="description" content="quiescentcurrent.com - Anwesenheitsliste">
 <meta name="author" content="peter@traunmueller.net">
   <link href="style.css" rel="stylesheet" type="text/css">
   <meta charset="UTF-8">
