@@ -64,7 +64,7 @@ Obviously all the code is written in python. Actually it's not that obvious, but
 It continuously takes photos of the chamber and compared the right most edge brightness to a set value. If this gets bright enough, it takes a photo. This is shown by blinking the red/green LEDs and the photo is saved. After the Photo is taken, the display tells you to take out the card and stops the blinking. Parallel to that it cuts out the part of the image where the interesting number could be and does an OCR on that. If it doesn't detect a plausible number, it takes a second part of the image and does the OCR there. This routine can be expanded infinitely for different cards with different positions for the numbers. If it at some point detects a valid number it opens a URL to upload the number and corresponding image to a server via PHP. </p><br>
 
 
-<p align="right"><img src='https://github.com/petl/OCR_readID/blob/main/Photos/Untitled%20Diagram.png' width='50%'><br>Flowchart for the code. </p>  <br />
+<p align="right"><img src='https://github.com/petl/OCR_readID/blob/main/Flowchart/Untitled%20Diagram.png' width='50%'><br>Flowchart for the code. </p>  <br />
 
 <p><h2> Server  </h2> </p>
 
