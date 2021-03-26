@@ -1,5 +1,5 @@
 ##Script to read a photo from the raspberry camera and try to extract a Matrikelnummer
-#9.2020 pet@fet.at
+#9.2020 peter@traunmueller.net
 
 
 from PIL import Image, ImageDraw, ImageFont, ImageStat, ImageEnhance, ImageFilter
@@ -183,7 +183,7 @@ def readMatrikelnummer(filename):
 
 def uploadData(filename, matrnr):
     print("Upload to server")
-    url = 'https://corona.fet.at/da/readerUpload/uploadFromPi.php'
+    url = 'https://quiescentcurrent.com/da/readerUpload/uploadFromPi.php'
     post_files = {'fileToUpload': open(filename, 'rb')}
     post_data = { 'MatrNr' :  matrnr}
     r = requests.post(url, data = post_data,  files=post_files)
@@ -226,7 +226,7 @@ def drawDefaultImage():
     draw.text( (0, 0),"-ANWESENHEIT-",font=font,fill=255)
     draw.text( (5, 15),"Neuen Ausweis",font=font,fill=255)
     draw.text( (15, 25),"einstecken",font=font,fill=255)
-    draw.text( (20, 35),"--fet.at--",font=font,fill=255)
+    draw.text( (20, 35),"--Peter--",font=font,fill=255)
     display.image(image)
     display.show()
 
