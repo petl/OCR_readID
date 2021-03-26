@@ -32,7 +32,7 @@ If you take a look at the rendering, you can see that the case is mostly empty. 
 
 
 </p>
-<p align="right"><img src='https://github.com/petl/OCR_readID/blob/main/Photos/rM_front1.PNG' width='50%'> <img src='https://github.com/petl/OCR_readID/blob/main/Photos/rM_back1.PNG' width='50%'><br>Rendering of the main 3D printed part. </p>  <br />
+<p align="right"><img src='https://github.com/petl/OCR_readID/blob/main/Photos/rM_back1.PNG' width='50%'><br>Rendering of the main 3D printed part. </p>  <br />
 
 <p><h2> Electronics </h2> </p>
 
