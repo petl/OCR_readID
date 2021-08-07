@@ -2,7 +2,7 @@
 <p>How do you track people coming and going into rooms during Covid19? Right, you save the RFID tag off their ID card! Thing is, not all IDs have RFID and more so, not all of the tag IDs are easily matched to user IDs.. To get around this we can just take a photo and read off any number we want. That's easy and quickly modifiable for different ID cards.  </p><br>
 <p>Long story short: The project uses <a href='https://github.com/tesseract-ocr/tesseract'>tesseract</a> to do optical character recognition (OCR) on a photo taken from the ID card. This is then fed into a server which saves the original picture with the read number.</p><br>
 
-<p>If you're interested in this project, take a look at the <a href='https://github.com/petl/OCR_readID'>github repository</a> or just write a message or leave a comment. </p><br><br>
+<p>If you're interested in this project, take a look at the <a href='https://quiescentcurrent.com/blog/post.php?p_id=66'>blog post</a> or just write a message or leave a comment. </p><br><br>
 
 <p align="right"><img src='https://github.com/petl/OCR_readID/blob/main/Photos/IMG_20210304_095842_crop.jpg' width='100%'><br>Photo of the reader in action.</p>  <br />
 
@@ -85,4 +85,4 @@ The additional space is then filled with two sand filled bags to make the unit h
 
 <p><h2> Conclusion </h2> </p>
 
-So that's that, I hope this guide didn't get too long. All the files are on <a href='https://github.com/petl/OCR_readID'>github</a> so you can download them and browse through. If you have any questions or feedback just write a message or leave a comment <3            
+So that's that, I hope this guide didn't get too long. All the files are on <a href='https://quiescentcurrent.com/blog/post.php?p_id=66'>blog</a> so you can download them and browse through. If you have any questions or feedback just write a message or leave a comment <3            
